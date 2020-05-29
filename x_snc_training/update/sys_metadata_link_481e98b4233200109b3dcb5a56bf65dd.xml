@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>d40bd4a6232200109b3dcb5a56bf65a5</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_training_attendee">
+    <x_snc_training_attendee action="INSERT_OR_UPDATE">
+        <course display_value="TRN0001003">fce7d9e5232200109b3dcb5a56bf65d0</course>
+        <employee display_value="Chuck Tomasi">46c9e158a9fe198101d44d0d22cb640d</employee>
+        <state>canceled</state>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2020-01-27 13:58:27</sys_created_on>
+        <sys_id>d40bd4a6232200109b3dcb5a56bf65a5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2020-01-27 13:58:49</sys_updated_on>
+    </x_snc_training_attendee>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-03 13:57:55</sys_created_on>
+        <sys_id>481e98b4233200109b3dcb5a56bf65dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2020-01-27 06:58:27</sys_name>
+        <sys_package display_value="Training" source="x_snc_training">bc059525232200109b3dcb5a56bf659f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training">bc059525232200109b3dcb5a56bf659f</sys_scope>
+        <sys_update_name>sys_metadata_link_481e98b4233200109b3dcb5a56bf65dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-03 13:57:55</sys_updated_on>
+        <tablename>x_snc_training_attendee</tablename>
+    </sys_metadata_link>
+</record_update>

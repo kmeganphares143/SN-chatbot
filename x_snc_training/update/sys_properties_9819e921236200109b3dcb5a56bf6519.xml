@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Course activity formatter fields</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.ui.x_snc_training_course_activity.fields</name>
+        <read_roles/>
+        <suffix>x_snc_training</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2020-01-24 17:05:21</sys_created_on>
+        <sys_id>9819e921236200109b3dcb5a56bf6519</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.ui.x_snc_training_course_activity.fields</sys_name>
+        <sys_package display_value="Training" source="x_snc_training">bc059525232200109b3dcb5a56bf659f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training">bc059525232200109b3dcb5a56bf659f</sys_scope>
+        <sys_update_name>sys_properties_9819e921236200109b3dcb5a56bf6519</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2020-01-24 17:05:21</sys_updated_on>
+        <type>string</type>
+        <value>assigned_to,state,opened_by,work_notes,comments,*Attachments*,approval</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=9819e921236200109b3dcb5a56bf6519"/>
+</record_update>

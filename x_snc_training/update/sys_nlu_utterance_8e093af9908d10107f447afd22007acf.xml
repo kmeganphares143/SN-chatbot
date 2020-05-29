@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_nlu_utterance">
+    <sys_nlu_utterance action="INSERT_OR_UPDATE">
+        <intent display_value="Register a training">e2a8b2f9908d10107f447afd22007a4f</intent>
+        <sys_class_name>sys_nlu_utterance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-29 00:10:11</sys_created_on>
+        <sys_id>8e093af9908d10107f447afd22007acf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sign up a class for soft skills</sys_name>
+        <sys_package display_value="Training" source="x_snc_training">bc059525232200109b3dcb5a56bf659f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training">bc059525232200109b3dcb5a56bf659f</sys_scope>
+        <sys_update_name>sys_nlu_utterance_8e093af9908d10107f447afd22007acf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-29 00:10:11</sys_updated_on>
+        <utterance>sign up a class for soft skills</utterance>
+    </sys_nlu_utterance>
+</record_update>

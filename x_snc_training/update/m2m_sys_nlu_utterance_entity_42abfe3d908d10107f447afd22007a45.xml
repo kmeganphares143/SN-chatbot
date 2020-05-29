@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_nlu_utterance_entity">
+    <m2m_sys_nlu_utterance_entity action="INSERT_OR_UPDATE">
+        <annotation>[{"indexes":[2,3],"annotatedString":"register for {{phrase=\"presentation skills\"}}","cat":"Presentation"}]</annotation>
+        <entity display_value="Training category">be7a3ef9908d10107f447afd22007a4b</entity>
+        <sys_class_name>m2m_sys_nlu_utterance_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-29 00:21:39</sys_created_on>
+        <sys_id>42abfe3d908d10107f447afd22007a45</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Training category.register for presentation skills</sys_name>
+        <sys_package display_value="Training" source="x_snc_training">bc059525232200109b3dcb5a56bf659f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training">bc059525232200109b3dcb5a56bf659f</sys_scope>
+        <sys_update_name>m2m_sys_nlu_utterance_entity_42abfe3d908d10107f447afd22007a45</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-29 00:21:39</sys_updated_on>
+        <utterance display_value="register for presentation skills">37f83af9908d10107f447afd22007ac2</utterance>
+    </m2m_sys_nlu_utterance_entity>
+</record_update>

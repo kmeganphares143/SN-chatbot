@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_nlu_utterance_entity">
+    <m2m_sys_nlu_utterance_entity action="DELETE">
+        <annotation>[{"indexes":[2],"annotatedString":"register for {{phrase=\"presentation\"}} skills","cat":"Presentation"}]</annotation>
+        <entity display_value="Training category">be7a3ef9908d10107f447afd22007a4b</entity>
+        <sys_class_name>m2m_sys_nlu_utterance_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-29 00:18:49</sys_created_on>
+        <sys_id>b80b3a3d908d10107f447afd22007afd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Training category.register for presentation skills</sys_name>
+        <sys_package display_value="Training" source="x_snc_training">bc059525232200109b3dcb5a56bf659f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training">bc059525232200109b3dcb5a56bf659f</sys_scope>
+        <sys_update_name>m2m_sys_nlu_utterance_entity_b80b3a3d908d10107f447afd22007afd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-29 00:18:49</sys_updated_on>
+        <utterance display_value="register for presentation skills">37f83af9908d10107f447afd22007ac2</utterance>
+    </m2m_sys_nlu_utterance_entity>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Training">bc059525232200109b3dcb5a56bf659f</application>
+        <file_path/>
+        <instance_id>474dec30dbc91810769cc170ba96192c</instance_id>
+        <instance_name>nowlearning-lpt0109234-001</instance_name>
+        <name>m2m_sys_nlu_utterance_entity_b80b3a3d908d10107f447afd22007afd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_nlu_utterance_entity"><m2m_sys_nlu_utterance_entity action="INSERT_OR_UPDATE"><annotation>[{"indexes":[2],"annotatedString":"register for {{phrase=\"presentation\"}} skills","cat":"Presentation"}]</annotation><entity display_value="Training category">be7a3ef9908d10107f447afd22007a4b</entity><sys_class_name>m2m_sys_nlu_utterance_entity</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-29 00:18:49</sys_created_on><sys_id>b80b3a3d908d10107f447afd22007afd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Training category.register for presentation skills</sys_name><sys_package display_value="Training" source="x_snc_training">bc059525232200109b3dcb5a56bf659f</sys_package><sys_policy/><sys_scope display_value="Training">bc059525232200109b3dcb5a56bf659f</sys_scope><sys_update_name>m2m_sys_nlu_utterance_entity_b80b3a3d908d10107f447afd22007afd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-29 00:18:49</sys_updated_on><utterance display_value="register for presentation skills">37f83af9908d10107f447afd22007ac2</utterance></m2m_sys_nlu_utterance_entity></record_update>]]></payload>
+        <payload_hash>947581204</payload_hash>
+        <record_name>Training category.register for presentation skills</record_name>
+        <reverted_from/>
+        <source>006632b9908d10107f447afd22007a12</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-29 00:18:49</sys_created_on>
+        <sys_id>f40b3a3d908d10107f447afd22007aff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1725dcbb1c90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-29 00:18:49</sys_updated_on>
+        <type>NLU Utterance Entity</type>
+        <update_guid>300b3a3ddc8d1010a36b682d3e3324ff</update_guid>
+        <update_guid_history>300b3a3ddc8d1010a36b682d3e3324ff:947581204</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Training category.register for presentation skills">339b7e3d908d10107f447afd22007ad7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-29 00:21:29</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sys_nlu_utterance_entity">m2m_sys_nlu_utterance_entity</sys_db_object>
+        <sys_id>608700bed45d47c896ab5deaf16d9a40</sys_id>
+        <sys_metadata>b80b3a3d908d10107f447afd22007afd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Training category.register for presentation skills</sys_name>
+        <sys_package display_value="Training" source="x_snc_training">bc059525232200109b3dcb5a56bf659f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Training">bc059525232200109b3dcb5a56bf659f</sys_scope>
+        <sys_scope_delete display_value="">6db901ff3b134d68af184b60b77bca10</sys_scope_delete>
+        <sys_update_name>m2m_sys_nlu_utterance_entity_b80b3a3d908d10107f447afd22007afd</sys_update_name>
+        <sys_update_version display_value="m2m_sys_nlu_utterance_entity_b80b3a3d908d10107f447afd22007afd">f40b3a3d908d10107f447afd22007aff</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-29 00:21:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

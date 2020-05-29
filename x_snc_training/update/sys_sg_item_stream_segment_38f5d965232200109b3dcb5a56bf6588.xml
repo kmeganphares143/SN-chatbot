@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <interleave_order_direction>asc</interleave_order_direction>
+        <name>Course Item Stream Segment</name>
+        <order>0</order>
+        <screen display_value="Courses">30f5d565232200109b3dcb5a56bf650f</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2020-01-24 15:41:50</sys_created_on>
+        <sys_id>38f5d965232200109b3dcb5a56bf6588</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Course Item Stream Segment</sys_name>
+        <sys_package display_value="Training" source="x_snc_training">bc059525232200109b3dcb5a56bf659f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training">bc059525232200109b3dcb5a56bf659f</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_38f5d965232200109b3dcb5a56bf6588</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2020-01-24 15:41:50</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>

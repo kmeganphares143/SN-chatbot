@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="count" label="Count" language="en" table="var__m_sys_hub_flow_output_1bff912d232200109b3dcb5a56bf65df">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>count</element>
+            <help/>
+            <hint/>
+            <label>Count</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_output_1bff912d232200109b3dcb5a56bf65df</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2020-01-24 16:25:42</sys_created_on>
+            <sys_id>9bffd12d232200109b3dcb5a56bf6500</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Count</sys_name>
+            <sys_package display_value="Training" source="x_snc_training">bc059525232200109b3dcb5a56bf659f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Training">bc059525232200109b3dcb5a56bf659f</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_flow_output_1bff912d232200109b3dcb5a56bf65df_count_en</sys_update_name>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2020-01-24 16:25:42</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

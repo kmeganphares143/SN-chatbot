@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">6ecf8897e52200107f44af6e7d00196a</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2020-01-24 15:39:22</sys_created_on>
+        <sys_id>db83f4fc988110107f44d89dfbeccb1c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Training" source="x_snc_training">bc059525232200109b3dcb5a56bf659f</sys_package>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2020-01-24 15:39:22</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

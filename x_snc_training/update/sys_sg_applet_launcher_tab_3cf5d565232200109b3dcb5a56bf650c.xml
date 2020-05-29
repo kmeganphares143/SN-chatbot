@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Training">3cf5d565232200109b3dcb5a56bf650b</applet_launcher>
+        <icon display_value="Home Training">7cf5d565232200109b3dcb5a56bf650c</icon>
+        <label>Training</label>
+        <roles>x_snc_training.requester,x_snc_training.approver,x_snc_training.admin</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2020-01-24 15:41:50</sys_created_on>
+        <sys_id>3cf5d565232200109b3dcb5a56bf650c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Training</sys_name>
+        <sys_package display_value="Training" source="x_snc_training">bc059525232200109b3dcb5a56bf659f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training">bc059525232200109b3dcb5a56bf659f</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_3cf5d565232200109b3dcb5a56bf650c</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2020-01-24 15:41:50</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

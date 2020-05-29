@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Course" max_length="40" name="x_snc_training_course" sizeclass="6" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="0" label="Attendee count" max_length="40" name="attendee_count" read_only="true" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Capacity" max_length="40" name="capacity" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Min threshold" max_length="40" name="min_threshold" type="integer"/>
+        <element display="true" label="Name" max_length="160" name="name" type="string"/>
+    </element>
+</database>

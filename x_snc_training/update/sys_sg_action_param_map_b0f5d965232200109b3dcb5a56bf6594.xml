@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Course)">30f5d965232200109b3dcb5a56bf658f</button>
+        <item_parameter display_value="Course assigned_to">30f5d965232200109b3dcb5a56bf658d</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2020-01-24 15:41:50</sys_created_on>
+        <sys_id>b0f5d965232200109b3dcb5a56bf6594</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>30f5d965232200109b3dcb5a56bf658d</sys_name>
+        <sys_package display_value="Training" source="x_snc_training">bc059525232200109b3dcb5a56bf659f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training">bc059525232200109b3dcb5a56bf659f</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_b0f5d965232200109b3dcb5a56bf6594</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2020-01-24 15:41:50</sys_updated_on>
+        <ui_parameter display_value="Assigned to">74f5d965232200109b3dcb5a56bf6590</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

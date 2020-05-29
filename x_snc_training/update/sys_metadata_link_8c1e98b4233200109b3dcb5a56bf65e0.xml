@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>a08d50b4233200109b3dcb5a56bf6573</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_training_attendee">
+    <x_snc_training_attendee action="INSERT_OR_UPDATE">
+        <course display_value="TRN0001005">112d90b4233200109b3dcb5a56bf6575</course>
+        <employee display_value="Veronica Achorn">39826bf03710200044e0bfc8bcbe5d1f</employee>
+        <state>registered</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-03 13:55:51</sys_created_on>
+        <sys_id>a08d50b4233200109b3dcb5a56bf6573</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-03 13:55:51</sys_updated_on>
+    </x_snc_training_attendee>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-03 13:57:55</sys_created_on>
+        <sys_id>8c1e98b4233200109b3dcb5a56bf65e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2020-02-03 06:55:51</sys_name>
+        <sys_package display_value="Training" source="x_snc_training">bc059525232200109b3dcb5a56bf659f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training">bc059525232200109b3dcb5a56bf659f</sys_scope>
+        <sys_update_name>sys_metadata_link_8c1e98b4233200109b3dcb5a56bf65e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-03 13:57:55</sys_updated_on>
+        <tablename>x_snc_training_attendee</tablename>
+    </sys_metadata_link>
+</record_update>

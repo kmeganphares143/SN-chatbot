@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="Training Course">70f5d565232200109b3dcb5a56bf650e</data_item>
+        <dependency_fields>state,number,short_description,opened_by,opened_by.avatar,priority</dependency_fields>
+        <item_view_json>{"Children":[{"Children":[{"Children":[{"Text":"","Width":100,"Height":21,"BackgroundColor":"#f1f1f1","Font":{"Size":13,"Weight":"semibold"},"TextColor":"#293e40","CornerRadius":2,"CellId":"state","TextAlignment":"Center","MaxLines":1,"studio_template_field_id":"E1","Type":"Text"}],"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Type":"ViewGroup","Margin":{"Right":12}},{"Children":[{"Text":"","Font":{"Size":13,"Weight":"regular"},"TextColor":"#7d8a8c","CellId":"number","TextAlignment":"Right","MaxLines":1,"studio_template_field_id":"E2","Type":"Text"}],"Orientation":"Vertical","Alignment":"Right","Distribution":"Auto","Type":"ViewGroup"}],"Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Equal","Type":"ViewGroup"},{"Text":"","Font":{"Size":18,"Weight":"regular"},"TextColor":"#293e40","CellId":"short_description","TextAlignment":"Left","MaxLines":2,"studio_template_field_id":"E3","Type":"Text","Margin":{"Top":9}},{"Children":[{"Children":[{"Text":"Opened by","Font":{"Size":13,"Weight":"regular"},"TextColor":"#7d8a8c","studio_template_is_label":true,"TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E4","Type":"Text","Margin":{"Right":8}},{"Width":22,"Height":22,"CornerRadius":11,"CellId":"opened_by.avatar","Scaling":"Fill","studio_template_field_id":"E5","Type":"Image","Margin":{"Right":6}},{"Text":"","Font":{"Size":13,"Weight":"regular"},"TextColor":"#293e40","CellId":"opened_by","TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E4","Type":"Text"}],"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Type":"ViewGroup","Margin":{"Top":9}},{"Children":[{"Text":"Priority","Font":{"Size":13,"Weight":"regular"},"TextColor":"#7d8a8c","studio_template_is_label":true,"TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E6","Type":"Text","Margin":{"Right":8}},{"Text":"","Font":{"Size":13,"Weight":"regular"},"TextColor":"#293e40","CellId":"priority","TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E6","Type":"Text"}],"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Type":"ViewGroup","Margin":{"Top":7}}],"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Type":"ViewGroup"}],"Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","studio_card_id":"9599488923452300a8ed7f4fc7bf652e","Type":"ViewGroup","Margin":{"Top":17,"Bottom":15}}</item_view_json>
+        <name>Course List Screen Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2020-01-24 15:41:50</sys_created_on>
+        <sys_id>f4f5d565232200109b3dcb5a56bf650e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Course List Screen Item View</sys_name>
+        <sys_package display_value="Training" source="x_snc_training">bc059525232200109b3dcb5a56bf659f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training">bc059525232200109b3dcb5a56bf659f</sys_scope>
+        <sys_update_name>sys_sg_item_view_f4f5d565232200109b3dcb5a56bf650e</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2020-01-24 15:41:50</sys_updated_on>
+        <table>x_snc_training_course</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=f4f5d565232200109b3dcb5a56bf650e"/>
+</record_update>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_nlu_utterance_entity">
+    <m2m_sys_nlu_utterance_entity action="DELETE">
+        <annotation>[{"indexes":[5],"annotatedString":"sign up a class for {{phrase=\"soft\"}} skills","cat":"Presentation"}]</annotation>
+        <entity display_value="Training category">be7a3ef9908d10107f447afd22007a4b</entity>
+        <sys_class_name>m2m_sys_nlu_utterance_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-29 00:18:32</sys_created_on>
+        <sys_id>28fafef9908d10107f447afd22007aa3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Training category.sign up a class for soft skills</sys_name>
+        <sys_package display_value="Training" source="x_snc_training">bc059525232200109b3dcb5a56bf659f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training">bc059525232200109b3dcb5a56bf659f</sys_scope>
+        <sys_update_name>m2m_sys_nlu_utterance_entity_28fafef9908d10107f447afd22007aa3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-29 00:18:32</sys_updated_on>
+        <utterance display_value="sign up a class for soft skills">8e093af9908d10107f447afd22007acf</utterance>
+    </m2m_sys_nlu_utterance_entity>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Training">bc059525232200109b3dcb5a56bf659f</application>
+        <file_path/>
+        <instance_id>474dec30dbc91810769cc170ba96192c</instance_id>
+        <instance_name>nowlearning-lpt0109234-001</instance_name>
+        <name>m2m_sys_nlu_utterance_entity_28fafef9908d10107f447afd22007aa3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_nlu_utterance_entity"><m2m_sys_nlu_utterance_entity action="INSERT_OR_UPDATE"><annotation>[{"indexes":[5],"annotatedString":"sign up a class for {{phrase=\"soft\"}} skills","cat":"Presentation"}]</annotation><entity display_value="Training category">be7a3ef9908d10107f447afd22007a4b</entity><sys_class_name>m2m_sys_nlu_utterance_entity</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-29 00:18:32</sys_created_on><sys_id>28fafef9908d10107f447afd22007aa3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Training category.sign up a class for soft skills</sys_name><sys_package display_value="Training" source="x_snc_training">bc059525232200109b3dcb5a56bf659f</sys_package><sys_policy/><sys_scope display_value="Training">bc059525232200109b3dcb5a56bf659f</sys_scope><sys_update_name>m2m_sys_nlu_utterance_entity_28fafef9908d10107f447afd22007aa3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-29 00:18:32</sys_updated_on><utterance display_value="sign up a class for soft skills">8e093af9908d10107f447afd22007acf</utterance></m2m_sys_nlu_utterance_entity></record_update>]]></payload>
+        <payload_hash>-116245553</payload_hash>
+        <record_name>Training category.sign up a class for soft skills</record_name>
+        <reverted_from/>
+        <source>006632b9908d10107f447afd22007a12</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-29 00:18:32</sys_created_on>
+        <sys_id>acfafef9908d10107f447afd22007aa5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1725dcb6f810000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-29 00:18:32</sys_updated_on>
+        <type>NLU Utterance Entity</type>
+        <update_guid>e4fafef95d8d1010a3616f1b31d748a5</update_guid>
+        <update_guid_history>e4fafef95d8d1010a3616f1b31d748a5:-116245553</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Training category.sign up a class for soft skills">ba0b7a3d908d10107f447afd22007a07</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-29 00:18:58</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sys_nlu_utterance_entity">m2m_sys_nlu_utterance_entity</sys_db_object>
+        <sys_id>4eed34b8e7424600a72cd6a8a1490000</sys_id>
+        <sys_metadata>28fafef9908d10107f447afd22007aa3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Training category.sign up a class for soft skills</sys_name>
+        <sys_package display_value="Training" source="x_snc_training">bc059525232200109b3dcb5a56bf659f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Training">bc059525232200109b3dcb5a56bf659f</sys_scope>
+        <sys_scope_delete display_value="">6db901ff3b134d68af184b60b77bca10</sys_scope_delete>
+        <sys_update_name>m2m_sys_nlu_utterance_entity_28fafef9908d10107f447afd22007aa3</sys_update_name>
+        <sys_update_version display_value="m2m_sys_nlu_utterance_entity_28fafef9908d10107f447afd22007aa3">acfafef9908d10107f447afd22007aa5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-29 00:18:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

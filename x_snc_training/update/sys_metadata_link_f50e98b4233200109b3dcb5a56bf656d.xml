@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>112d90b4233200109b3dcb5a56bf6575</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="x_snc_training_course">
+    <x_snc_training_course action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <assigned_to/>
+        <assignment_group/>
+        <attendee_count>5</attendee_count>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <capacity>20</capacity>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <contract/>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description>Provided new managers the basics of what they need to know to be effective.</description>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <knowledge>false</knowledge>
+        <location display_value="125 West South Street, Indianapolis,IN">25ab9a3b0a0a0bb300462c63ec6c1fb8</location>
+        <made_sla>true</made_sla>
+        <min_threshold>8</min_threshold>
+        <name>Management Essentials I</name>
+        <number>TRN0001005</number>
+        <opened_at>2020-02-03 13:53:55</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <parent/>
+        <priority>4</priority>
+        <reassignment_count>0</reassignment_count>
+        <rejection_goto/>
+        <service_offering/>
+        <short_description>Management Essentials I</short_description>
+        <sla_due/>
+        <state>1</state>
+        <sys_class_name>x_snc_training_course</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-03 13:55:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>112d90b4233200109b3dcb5a56bf6575</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-17 21:20:15</sys_updated_on>
+        <time_worked/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end>2020-02-05 00:00:00</work_end>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start>2020-07-06 15:00:00</work_start>
+    </x_snc_training_course>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-03 13:57:46</sys_created_on>
+        <sys_id>f50e98b4233200109b3dcb5a56bf656d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Management Essentials I</sys_name>
+        <sys_package display_value="Training" source="x_snc_training">bc059525232200109b3dcb5a56bf659f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training">bc059525232200109b3dcb5a56bf659f</sys_scope>
+        <sys_update_name>sys_metadata_link_f50e98b4233200109b3dcb5a56bf656d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-17 21:20:53</sys_updated_on>
+        <tablename>x_snc_training_course</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_training.approver" name="x_snc_training.approver">d5159525232200109b3dcb5a56bf6581</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2020-01-24 15:38:03</sys_created_on>
+        <sys_id>59159525232200109b3dcb5a56bf6583</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d5159525232200109b3dcb5a56bf6581</sys_name>
+        <sys_package display_value="Training" source="x_snc_training">bc059525232200109b3dcb5a56bf659f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training">bc059525232200109b3dcb5a56bf659f</sys_scope>
+        <sys_update_name>sys_embedded_help_role_59159525232200109b3dcb5a56bf6583</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2020-01-24 15:38:03</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

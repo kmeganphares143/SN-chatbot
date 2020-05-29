@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_nlu_utterance_entity">
+    <m2m_sys_nlu_utterance_entity action="INSERT_OR_UPDATE">
+        <annotation>[{"indexes":[5],"annotatedString":"look for courses in {{phrase=\"management\"}}","cat":"Management"}]</annotation>
+        <entity display_value="Training category">be7a3ef9908d10107f447afd22007a4b</entity>
+        <sys_class_name>m2m_sys_nlu_utterance_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-29 00:19:59</sys_created_on>
+        <sys_id>b14bfa3d908d10107f447afd22007a62</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Training category. look for courses in management</sys_name>
+        <sys_package display_value="Training" source="x_snc_training">bc059525232200109b3dcb5a56bf659f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training">bc059525232200109b3dcb5a56bf659f</sys_scope>
+        <sys_update_name>m2m_sys_nlu_utterance_entity_b14bfa3d908d10107f447afd22007a62</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-29 00:19:59</sys_updated_on>
+        <utterance display_value=" look for courses in management">6a49baf9908d10107f447afd22007add</utterance>
+    </m2m_sys_nlu_utterance_entity>
+</record_update>

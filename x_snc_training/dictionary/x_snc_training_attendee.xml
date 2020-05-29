@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Attendee" max_length="40" name="x_snc_training_attendee" sizeclass="13" type="collection">
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Course" max_length="32" name="course" reference="x_snc_training_course" type="reference"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Employee" max_length="32" name="employee" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="registered" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Registered" sequence="0" value="registered"/>
+                <element inactive_on_update="false" label="Canceled" sequence="1" value="canceled"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="course"/>
+        </index>
+        <index name="index2">
+            <element name="employee"/>
+        </index>
+    </element>
+</database>
